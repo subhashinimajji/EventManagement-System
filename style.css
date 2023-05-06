@@ -1,0 +1,20 @@
+.card-img-top{
+    height: 200px;
+    width:100%;
+    object-fit: contain;
+     
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    width :7%;
+    height: 7%;
+}
+.admimg{
+    width: 100px; ;
+    object-fit: contain;
+   
+}
