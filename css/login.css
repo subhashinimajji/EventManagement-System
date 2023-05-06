@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+.container{
+    width:500px;
+    border: 2px solid grey;
+    border-radius: 8px;
+    padding: 30px;
+}
+.container h2{
+    color: grey;
+}
+.form-group label{
+    color: grey;
+}

@@ -1,0 +1,9 @@
+.py-3{
+    background-color: black; 
+    height:100vh;
+}
+.card{
+    width:500px;
+    border: 2px solid grey;
+    padding: 30px;
+}
